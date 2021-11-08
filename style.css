@@ -1,0 +1,125 @@
+body {
+    width: 80%;
+    margin: 0 auto;
+    padding: 1em;
+    font-family: 'Roboto', sans-serif;
+    background:#95B8B5;
+    text-align: center;
+   
+}
+
+
+}
+.intro {
+    font-size: 45px;
+    margin: 30px 0px;
+    font-weight: bold;
+    text-decoration: solid black;
+}
+
+h1  {
+font-size: 40px;
+    text-align: center;
+color: #fff;
+margin:auto;
+background-color:#25b99a ;
+/*display: 100%;*/
+border-bottom-right-radius: 10px;
+border-bottom-left-radius: 10px;
+border-top-right-radius: 10px;
+border-top-left-radius: 10px;
+text-transform: uppercase;
+
+}
+
+h2 {
+    text-decoration: underline black;
+    font-size: 30px;
+}
+ 
+p {
+    font-weight: 600;
+}
+
+li {
+    margin-top: 10px;
+    color: #e11d30;
+    font-size: 25px;
+}
+
+body button svg {
+    width: 20px;
+     height: 20px;
+     fill: #25b99a;
+}
+
+body button svg:hover{
+    fill: #1d8f77;
+}
+
+
+
+.container {
+    width: center;
+    
+}
+
+
+#inputField {
+    width: 300px;
+    height: 46px;
+    border: 1.4px solid black;
+    outline: none;
+    font-size: 25px;
+    vertical-align: middle;
+}
+
+
+#addToDo {
+    height: 50px;
+    width: 46px;
+    border: 1px solid black;
+    vertical-align: middle;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+
+.to-dos {
+    margin-top: 25px;
+    background-color: #25b99a;
+}
+
+.paragraph-styling {
+    margin: 0;
+    cursor: pointer;
+    font-size: 20px;
+    text-align: center;
+    padding: 10px 20px;
+    padding: 10px 20px;
+	color: #ffffff;
+	text-transform: capitalize;
+	font-weight: 600;
+	border: 2px solid #025f70;
+	border-radius: 5px;
+	margin-bottom: 10px;
+	/*background: #41b3a3;*/
+	transition: all 0.75s ease;
+	-webkit-transition: all 0.5s ease;
+	-moz-transition: all 0.5s ease;
+	-ms-transition: all 0.5s ease;
+	-o-transition: all 0.5 ease;
+    box-shadow: 5px 5px #025f70;
+}
+
+/*.instructions h2 {
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+
+
+}
